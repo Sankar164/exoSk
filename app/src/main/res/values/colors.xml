@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- page_3 colors -->
+
+	<color name="colorPrimary">#008577</color>
+	<color name="colorPrimaryDark">#00574B</color>
+	<color name="colorAccent">#D81B60</color>
+	<color name="purple_200">#FFBB86FC</color>
+	<color name="purple_500">#FF6200EE</color>
+	<color name="purple_700">#FF3700B3</color>
+	<color name="teal_200">#FF03DAC5</color>
+	<color name="teal_700">#FF018786</color>
+	<color name="black">#FF000000</color>
+	<color name="white">#FFFFFFFF</color>
+
+	<color name="_bg__page_3_ek2_color">#F6F6F6</color>
+	<color name="rectangle_24_color">#50C2C9</color>
+	<color name="ellipse_2_color">#BED9D8</color>
+	<color name="_9_45_color">#000000</color>
+	<color name="welcome_surjith_surya_v_color">#FFFFFF</color>
+	<color name="rectangle_color">#ffffff</color>
+	<color name="day_5_color">#A3A3A3</color>
+	<color name="rectangle_1_color">#4E797C</color>
+	<color name="ellipse_1_ek3_color">#69E0D9</color>
+	<color name="cursor_ek1_color">#B9A1A1</color>
+	<color name="rectangle_30_color">#B9AFAF</color>
+	<color name="rectangle_32_color">#9B8D8D</color>
+</resources>
